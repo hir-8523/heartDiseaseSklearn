@@ -68,6 +68,6 @@ pip install -r requirements.txt
 - Include a larger and more diverse dataset.
 
 ## Author
-- Hir SHah
+- Hir Shah
 
 Feel free to raise issues or contribute to the repository!
